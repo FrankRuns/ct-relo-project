@@ -6,6 +6,7 @@ frank-corrigan
 ## Background
 
 Document to reproduce metrics and visualizations used in this article:
+<http://www.frank-corrigan.com/2022/01/03/where-should-we-live/>
 
 First order is to load disperate data files (including shape files for
 maps)…
@@ -160,7 +161,7 @@ ggplot(plot_dist_data_melt, aes(x=value)) + geom_histogram() + facet_wrap(~varia
 
 ![](CT-Relo-Project_files/figure-gfm/distributions-1.png)<!-- -->
 
-## Setting Up for Maps\!
+## Setting Up for Maps!
 
 ``` r
 # create lists for colors and range names
