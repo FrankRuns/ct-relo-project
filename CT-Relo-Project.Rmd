@@ -30,7 +30,7 @@ library(ggplot2)
 
 ## Background
 
-Document to reproduce metrics and visualizations used in this article: 
+Document to reproduce metrics and visualizations used in this article: http://www.frank-corrigan.com/2022/01/03/where-should-we-live/
 
 First order is to load disperate data files (including shape files for maps)...
 
